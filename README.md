@@ -1,4 +1,4 @@
-# holywoodskyline
+# covid19 Report for Turkey
 Welcome to Novel Coronavirus Reporting Page ! Here you can find covid19 information for Turkey.
 
 <p>
