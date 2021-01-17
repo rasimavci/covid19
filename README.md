@@ -1,5 +1,6 @@
 # covid19 Report for Turkey
-Welcome to Novel Coronavirus Reporting Page ! Here you can find covid19 information for Turkey.
+Welcome to Novel Coronavirus Reporting Page ! Here you can find covid19 information for all countries.
+Website is done using by covid19 API -> https://covid19api.com/
 
 <p>
 <img src="src/assets/img/logo.png"/>
